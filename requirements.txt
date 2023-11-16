@@ -1,0 +1,3 @@
+lumaapi==0.0.4
+elevenlabs==0.2.26
+pytube==15.0.0
